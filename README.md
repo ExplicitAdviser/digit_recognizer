@@ -1,1 +1,1 @@
-# open-mind
+# neural network
